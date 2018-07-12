@@ -5,6 +5,15 @@ name = "pypi"
 
 [packages]
 django = "*"
+python-decouple = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+gunicorn = "*"
+"psycopg2-binary" = "*"
+dj-database-url = "*"
+whitenoise = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
